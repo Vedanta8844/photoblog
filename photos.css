@@ -1,0 +1,30 @@
+img {
+    width: 30%;
+    margin: calc(10%/6);
+}
+
+body {
+    /* background-color: black; */
+    /* background-image: linear-gradient(to bottom right, red, yellow); */
+    background: linear-gradient(89.7deg, rgb(0, 0, 0) -10.7%, rgb(53, 92, 125) 88.8%);
+}
+
+h1 {
+    color: #f1f1f1;
+
+
+    text-transform: uppercase;
+    border-bottom: 2px solid #f1f1f1;
+    width: 30%;
+    margin-left: calc(10%/6);
+    padding: 20px 0;
+    font-family: 'Times New Roman', Times, serif, serif;
+    text-align: center;
+
+    /* font-size: 100px; */
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}
